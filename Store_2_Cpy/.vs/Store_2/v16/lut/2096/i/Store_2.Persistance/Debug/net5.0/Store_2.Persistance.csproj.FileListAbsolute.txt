@@ -1,0 +1,13 @@
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.deps.json
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.runtimeconfig.json
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.runtimeconfig.dev.json
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Persistance\Debug\net5.0\ref\Store_2.Persistance.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.csprojAssemblyReference.cache
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.AssemblyInfoInputs.cache
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.AssemblyInfo.cs
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.csproj.CopyComplete
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\ref\Store_2.Persistance.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Persistance\Debug\net5.0\Store_2.Persistance.genruntimeconfig.cache

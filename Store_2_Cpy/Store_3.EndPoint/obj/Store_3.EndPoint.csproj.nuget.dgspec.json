@@ -1,0 +1,529 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_3.EndPoint\\Store_3.EndPoint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj",
+        "projectName": "Store_2.Application",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Common\\Common.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj",
+        "projectName": "Store_2.Domain",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\Store_2.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\Store_2.Infrastructure.csproj",
+        "projectName": "Store_2.Infrastructure",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\Store_2.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj",
+        "projectName": "Store_2.Persistance",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Domain\\Store_2.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_3.EndPoint\\Store_3.EndPoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_3.EndPoint\\Store_3.EndPoint.csproj",
+        "projectName": "Store_3.EndPoint",
+        "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_3.EndPoint\\Store_3.EndPoint.csproj",
+        "packagesPath": "C:\\Users\\Lohetaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_3.EndPoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lohetaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Application\\Store_2.Application.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\Store_2.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Infrastructure\\Store_2.Infrastructure.csproj"
+              },
+              "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj": {
+                "projectPath": "C:\\Users\\Lohetaban\\source\\repos\\Store_2_Cpy\\Store_2.Persistance\\Store_2.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "UAParser": {
+              "target": "Package",
+              "version": "[3.1.47, )"
+            },
+            "Zarinpal": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

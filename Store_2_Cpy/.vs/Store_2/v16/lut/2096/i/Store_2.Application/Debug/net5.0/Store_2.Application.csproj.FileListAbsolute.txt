@@ -1,0 +1,10 @@
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Application\Debug\net5.0\Store_2.Application.deps.json
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Application\Debug\net5.0\Store_2.Application.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\b\Store_2.Application\Debug\net5.0\ref\Store_2.Application.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.csprojAssemblyReference.cache
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.AssemblyInfoInputs.cache
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.AssemblyInfo.cs
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.csproj.CopyComplete
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\Store_2.Application.dll
+C:\Users\Lohetaban\source\repos\Store_2_Cpy\.vs\Store_2\v16\lut\0\i\Store_2.Application\Debug\net5.0\ref\Store_2.Application.dll
